@@ -1,0 +1,10 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# Compiled class file
+*.class
